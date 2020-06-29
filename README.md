@@ -23,10 +23,13 @@
 ---
 
 ### Design
-| **TactileSlider** | **Countdown** |  **TwitterLauncherAnimation** |
+| **TactileSlider** | **ApplePhotosIcon** |  **TwitterLauncherAnimation** |
 | :------------: | :------------: | :------------: |
-| <img align="center" src="Design/TactileSlider.gif" width=200> | <img align="center" src="Design/Countdown.gif" width=200>| <img align="center" src="Design/TwitterLauncherAnimation.gif" width=200> |
-|**ActivityRingAnimation** | **LockScreenBatteryMagSafe**| **Settings** |  |
-| <img align="center" src="Design/ActivityRingAnimation.gif" width=200> | <img align="center" src="Design/LockScreenBatteryMagSafe.gif" width=200> | <img align="center" src="Design/Settings.png" width=200> | 
+| <img align="center" src="Design/TactileSlider.gif" width=200> | <img align="center" src="Design/ApplePhotosIcon.gif" width=200> | <img align="center" src="Design/TwitterLauncherAnimation.gif" width=200> |
+|**ActivityRingAnimation** | **LockScreenBatteryMagSafe**| **VoiceRecordingAnimation** |  |
+| <img align="center" src="Design/ActivityRingAnimation.gif" width=200> | <img align="center" src="Design/LockScreenBatteryMagSafe.gif" width=200> | <img align="center" src="Design/VoiceRecordingAnimation.gif" width=200> | 
+|**Countdown** | **AppLock**| **Settings** |  |
+| <img align="center" src="Design/Countdown.gif" width=200> | <img align="center" src="Design/AppLock.gif" width=200> | <img align="center" src="Design/Settings.gif" width=200> |
+
 
 
