@@ -1,4 +1,4 @@
-![](Design/banner_swift.png)
+<img align="center" src="Design/banner_swift.png">
 <p align="center"> <b>SwiftUI-DesignCode is some examples in the process of learning swiftUI. </b></p>
 
 ---
@@ -23,8 +23,8 @@
 ### Design
 |  Product Name	|  Preview	|
 | :------------: | :------------: | 
-| `TactileSlider` | ![](Design/TactileSlider.gif) |
-| `Settings` | ![](Design/settings.png)|
-| `TwitterLauncherAnimation` | ![](Design/TwitterLauncherAnimation.gif) |
-| `ActivityRingAnimation` |  ![](Design/ActivityRingAnimation.gif)|
-| `LockScreenBatteryMagSafe` | ![](Design/LockScreenBatteryMagSafe.gif) |
+| **TactileSlider** | <img align="center" src="Design/TactileSlider.gif" width=200> |
+| **Settings** | <img align="center" src="Design/Settings.png" width=200>|
+| **TwitterLauncherAnimation** | <img align="center" src="Design/TwitterLauncherAnimation.gif" width=200> |
+| **ActivityRingAnimation** | <img align="center" src="Design/ActivityRingAnimation.gif" width=200> |
+| **LockScreenBatteryMagSafe** | <img align="center" src="Design/LockScreenBatteryMagSafe.gif" width=200> |
