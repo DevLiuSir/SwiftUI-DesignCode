@@ -1,13 +1,11 @@
-<p align="center"> 
-<img  src="https://github.com/DevLiuSir/SwiftUI-DesignCode/raw/master/Design/banner_swift.png" width="1173" height="300"></p>
-
+![](Design/banner_swift.png)
 <p align="center"> <b>SwiftUI-DesignCode is some examples in the process of learning swiftUI. </b></p>
 
 ---
 
 ![language](https://img.shields.io/badge/language-swift-orange.svg)
-[![swift version](https://img.shields.io/badge/swift-5.1+-blue.svg?style=flat)](https://developer.apple.com/swift/)
-![xcode version](https://img.shields.io/badge/xcode-11.2+-red.svg)
+[![swift version](https://img.shields.io/badge/swift-5.3+-blue.svg?style=flat)](https://developer.apple.com/swift/)
+![xcode version](https://img.shields.io/badge/xcode-12.0.1+-yellow.svg)
 ![build state](https://img.shields.io/badge/build-passing-brightgreen)
 ![GitHub top language](https://img.shields.io/github/languages/top/DevLiuSir/SwiftUI-DesignCode?color=blueviolet)
 ![https://github.com/DevLiuSir/SwiftUI-DesignCode/blob/master/LICENSE](https://img.shields.io/github/license/DevLiuSir/SwiftUI-DesignCode.svg)
@@ -25,8 +23,8 @@
 ### Design
 |  Product Name	|  Preview	|
 | :------------: | :------------: | 
-| `TactileSlider` | ![](https://github.com/DevLiuSir/SwiftUI-DesignCode/raw/master/Design/TactileSlider.gif) |
-| `Settings` | ![](https://github.com/DevLiuSir/SwiftUI-DesignCode/raw/master/Design/settings.png)|
-| `TwitterLauncherAnimation` | ![](https://github.com/DevLiuSir/SwiftUI-DesignCode/raw/master/Design/TwitterLauncherAnimation.gif) |
-| `ActivityRingAnimation` |  ![](https://github.com/DevLiuSir/SwiftUI-DesignCode/raw/master/Design/ActivityRingAnimation.gif)|
-| `LockScreenBatteryMagSafe` | ![](https://github.com/DevLiuSir/SwiftUI-DesignCode/raw/master/Design/LockScreenBatteryMagSafe.gif) |
+| `TactileSlider` | ![](Design/TactileSlider.gif) |
+| `Settings` | ![](Design/settings.png)|
+| `TwitterLauncherAnimation` | ![](Design/TwitterLauncherAnimation.gif) |
+| `ActivityRingAnimation` |  ![](Design/ActivityRingAnimation.gif)|
+| `LockScreenBatteryMagSafe` | ![](Design/LockScreenBatteryMagSafe.gif) |
