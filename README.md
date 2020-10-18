@@ -19,12 +19,11 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/DevLiuSir/SwiftUI-DesignCode?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LiuChuan_.svg?style=social)](https://twitter.com/LiuChuan_)
 
+---
 
 ### Design
-|  Product Name	|  Preview	|
-| :------------: | :------------: | 
-| **TactileSlider** | <img align="center" src="Design/TactileSlider.gif" width=200> |
-| **Settings** | <img align="center" src="Design/Settings.png" width=200>|
-| **TwitterLauncherAnimation** | <img align="center" src="Design/TwitterLauncherAnimation.gif" width=200> |
-| **ActivityRingAnimation** | <img align="center" src="Design/ActivityRingAnimation.gif" width=200> |
-| **LockScreenBatteryMagSafe** | <img align="center" src="Design/LockScreenBatteryMagSafe.gif" width=200> |
+| **TactileSlider** | **Countdown** |  **TwitterLauncherAnimation** | **ActivityRingAnimation** |
+| :------------: | :------------: | :------------: | :------------: |
+| <img align="center" src="Design/TactileSlider.gif" width=200> | <img align="center" src="Design/Countdown.gif" width=200>| <img align="center" src="Design/TwitterLauncherAnimation.gif" width=200> | <img align="center" src="Design/ActivityRingAnimation.gif" width=200> |
+|**LockScreenBatteryMagSafe**| **Settings** |  |  |  |
+| <img align="center" src="Design/LockScreenBatteryMagSafe.gif" width=200> | <img align="center" src="Design/Settings.png" width=200> |  |  |
