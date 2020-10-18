@@ -1,5 +1,5 @@
 //
-//  CustomView.swift
+//  TouchSlider.swift
 //  TactileSlider
 //
 //  Created by Liu Chuan on 2020/5/13.
@@ -8,7 +8,8 @@
 
 import SwiftUI
 
-struct CustomView: View {
+/// 触摸滑块视图
+struct TouchSlider: View {
     
     /// 百分比
     @Binding var percentage: Float // 绑定了某些值
@@ -24,11 +25,13 @@ struct CustomView: View {
                     .frame(width: geometry.size.width * CGFloat(self.percentage / 100))
             }
             .cornerRadius(12)
+            // 添加手势...
             .gesture(DragGesture(minimumDistance: 0)
-            .onChanged({ value in
-                // TODO：-也许在这里使用其他逻辑
-                self.percentage = min(max(0, Float(value.location.x / geometry.size.width * 100)), 100)
-            }))
+                        .onChanged({ (value) in
+                            // TODO：-也许在这里使用其他逻辑
+                            self.percentage = min(max(0, Float(value.location.x / geometry.size.width * 100)), 100)
+                        }))
         }
+    
     }
 }

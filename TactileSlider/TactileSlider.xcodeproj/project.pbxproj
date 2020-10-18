@@ -13,7 +13,7 @@
 		6B6C1F53246B3DD10061BE69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B6C1F52246B3DD10061BE69 /* Assets.xcassets */; };
 		6B6C1F56246B3DD10061BE69 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B6C1F55246B3DD10061BE69 /* Preview Assets.xcassets */; };
 		6B6C1F59246B3DD10061BE69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B6C1F57246B3DD10061BE69 /* LaunchScreen.storyboard */; };
-		6B6C1F61246B3EB50061BE69 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6C1F60246B3EB50061BE69 /* CustomView.swift */; };
+		6B6C1F61246B3EB50061BE69 /* TouchSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6C1F60246B3EB50061BE69 /* TouchSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		6B6C1F55246B3DD10061BE69 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6B6C1F58246B3DD10061BE69 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B6C1F5A246B3DD10061BE69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6B6C1F60246B3EB50061BE69 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
+		6B6C1F60246B3EB50061BE69 /* TouchSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				6B6C1F4C246B3DD00061BE69 /* AppDelegate.swift */,
 				6B6C1F4E246B3DD00061BE69 /* SceneDelegate.swift */,
 				6B6C1F50246B3DD00061BE69 /* ContentView.swift */,
-				6B6C1F60246B3EB50061BE69 /* CustomView.swift */,
+				6B6C1F60246B3EB50061BE69 /* TouchSlider.swift */,
 				6B6C1F52246B3DD10061BE69 /* Assets.xcassets */,
 				6B6C1F57246B3DD10061BE69 /* LaunchScreen.storyboard */,
 				6B6C1F5A246B3DD10061BE69 /* Info.plist */,
@@ -105,7 +105,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
-				LastUpgradeCheck = 1130;
+				LastUpgradeCheck = 1200;
 				ORGANIZATIONNAME = "Liu Chuan";
 				TargetAttributes = {
 					6B6C1F48246B3DD00061BE69 = {
@@ -150,7 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B6C1F4D246B3DD00061BE69 /* AppDelegate.swift in Sources */,
-				6B6C1F61246B3EB50061BE69 /* CustomView.swift in Sources */,
+				6B6C1F61246B3EB50061BE69 /* TouchSlider.swift in Sources */,
 				6B6C1F4F246B3DD00061BE69 /* SceneDelegate.swift in Sources */,
 				6B6C1F51246B3DD00061BE69 /* ContentView.swift in Sources */,
 			);
@@ -196,6 +196,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -220,7 +221,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -256,6 +257,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -274,7 +276,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
