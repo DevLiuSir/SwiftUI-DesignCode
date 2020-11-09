@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Clock
+
+  Created by Liu Chuan on 2020/11/13.
+  
+*/
+
+"Mon" = "Mon";
+"Tues" = "Tues";
+"Wed" = "Wed";
+"Thur" = "Thur";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
