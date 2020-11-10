@@ -18,7 +18,6 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/DevLiuSir/SwiftUI-DesignCode?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LiuChuan_.svg?style=social)](https://twitter.com/LiuChuan_)
 
-
 ---
 
 ### Design
@@ -26,9 +25,14 @@
 | :------------: | :------------: | :------------: |
 | <img align="center" src="Design/TactileSlider.gif" width=300> | <img align="center" src="Design/ApplePhotosIcon.gif" width=300> | <img align="center" src="Design/NotificationBanner.gif" width=300> |
 
-| **TwitterLauncherAnimation** | **SpringIndicator** | **GestureHandle** |
+| **LoadingAnimations** | **SpringIndicator** | **GestureHandle** |
 | :------------: | :------------: | :------------: |
-|<img align="center" src="Design/TwitterLauncherAnimation.gif" width=300> | <img align="center" src="Design/SpringIndicator.gif" width=300> | <img align="center" src="Design/GestureHandle.gif" width=300>
+|<img align="center" src="Design/LoadingAnimations.gif" width=300> | <img align="center" src="Design/SpringIndicator.gif" width=300> | <img align="center" src="Design/GestureHandle.gif" width=300> |
+
+
+| **TwitterLauncherAnimation** | **CircleProgressBar** | **Clock** |
+| :------------: | :------------: | :------------: |
+|<img align="center" src="Design/TwitterLauncherAnimation.gif" width=300> | <img align="center" src="Design/CircleProgressBar.gif" width=300> |<img align="center" src="Design/Clock.gif" width=300>|
 
 |**ActivityRingAnimation** | **LockScreenBatteryMagSafe**| **AppLock** |
 | :------------: | :------------: | :------------: |
