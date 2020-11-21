@@ -19,7 +19,6 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/DevLiuSir/SwiftUI-DesignCode?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LiuChuan_.svg?style=social)](https://twitter.com/LiuChuan_)
 
--
 
 ### Design
 | **TactileSlider** | **ApplePhotosIcon** |  **NotificationBanner** |
