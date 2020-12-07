@@ -2,22 +2,24 @@
 <p align="center"> <b>SwiftUI-DesignCode is some examples in the process of learning swiftUI. </b></p>
 
 
-![](https://badgen.net/badge/icon/apple?icon=apple&label)
-![language](https://img.shields.io/badge/language-swift-orange.svg)
-[![swift version](https://img.shields.io/badge/swift-5.3+-blue.svg?style=flat)](https://developer.apple.com/swift/)
-![xcode version](https://img.shields.io/badge/xcode-12.1+-yellow.svg)
-![build state](https://img.shields.io/badge/build-passing-brightgreen)
-![GitHub top language](https://img.shields.io/github/languages/top/DevLiuSir/SwiftUI-DesignCode?color=blueviolet)
-![https://github.com/DevLiuSir/SwiftUI-DesignCode/blob/master/LICENSE](https://img.shields.io/github/license/DevLiuSir/SwiftUI-DesignCode.svg)
-![platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DevLiuSir/SwiftUI-DesignCode?color=ff69b4&label=codeSize)
-![GitHub repo size](https://img.shields.io/github/repo-size/DevLiuSir/SwiftUI-DesignCode)
-![GitHub last commit](https://img.shields.io/github/last-commit/DevLiuSir/SwiftUI-DesignCode)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DevLiuSir/SwiftUI-DesignCode)
-![Github Star](https://img.shields.io/github/stars/DevLiuSir/SwiftUI-DesignCode.svg?style=social&label=Star)
-![GitHub forks](https://img.shields.io/github/forks/DevLiuSir/SwiftUI-DesignCode?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/DevLiuSir/SwiftUI-DesignCode?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/LiuChuan_.svg?style=social)](https://twitter.com/LiuChuan_)
+<p align="center">
+<img src="https://badgen.net/badge/icon/apple?icon=apple&label">
+<img src="https://img.shields.io/badge/language-swift-orange.svg">
+<a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/swift-5.3+-blue.svg?style=flat"></a>
+<img src="https://img.shields.io/badge/xcode-12.1+-yellow.svg">
+<img src="https://img.shields.io/badge/build-passing-brightgreen">
+<img src="https://img.shields.io/github/languages/top/DevLiuSir/SwiftUI-DesignCode?color=blueviolet">
+<img src="https://img.shields.io/github/license/DevLiuSir/SwiftUI-DesignCode.svg">
+<img src="https://img.shields.io/badge/platform-ios-lightgrey.svg">
+<img src="https://img.shields.io/github/languages/code-size/DevLiuSir/SwiftUI-DesignCode?color=ff69b4&label=codeSize">
+<img src="https://img.shields.io/github/repo-size/DevLiuSir/SwiftUI-DesignCode">
+<img src="https://img.shields.io/github/last-commit/DevLiuSir/SwiftUI-DesignCode">
+<img src="https://img.shields.io/github/commit-activity/m/DevLiuSir/SwiftUI-DesignCode">
+<img src="https://img.shields.io/github/stars/DevLiuSir/SwiftUI-DesignCode.svg?style=social&label=Star">
+<img src="https://img.shields.io/github/forks/DevLiuSir/SwiftUI-DesignCode?style=social">
+<img src="https://img.shields.io/github/watchers/DevLiuSir/SwiftUI-DesignCode?style=social">
+<a href="https://twitter.com/LiuChuan_"><img src="https://img.shields.io/twitter/follow/LiuChuan_.svg?style=social"></a>
+</p>
 
 
 ### Design
@@ -29,9 +31,13 @@
 | :------------: | :------------: | :------------: |
 |<img align="center" src="Design/LoadingAnimations.gif" width=300> | <img align="center" src="Design/SpringIndicator.gif" width=300> | <img align="center" src="Design/GestureHandle.gif" width=300> |
 
-| **ScalingOnScrollView** | **CircleProgressBar** | **Clock** |
+| **AppleRemote** | **CircleProgressBar** | **Clock** |
 | :------------: | :------------: | :------------: |
-|<img align="center" src="Design/ScalingOnScrollView.gif" width=300> | <img align="center" src="Design/CircleProgressBar.gif" width=300> |<img align="center" src="Design/Clock.gif" width=300>|
+|<img align="center" src="Design/AppleRemote.gif" width=300> | <img align="center" src="Design/CircleProgressBar.gif" width=300> |<img align="center" src="Design/Clock.gif" width=300>|
+
+| **ScalingOnScrollView** | **StretchHeadView** | **SlideOutMenu** |
+| :------------: | :------------: | :------------: |
+| <img align="center" src="Design/ScalingOnScrollView.gif" width=300> | <img align="center" src="Design/StretchHeadView.gif" width=300> | <img align="center" src="Design/SlideOutMenu.gif" width=300> |
 
 | **ParticleAnimationEffect** | **TwitterLauncherAnimation** | **SlideToLockState** |
 | :------------: | :------------: | :------------: |
